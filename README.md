@@ -18,7 +18,7 @@ The following use case is based on a real client request and a solution should b
 <directory with .sql scripts> <username for the DB> <DB host> <DB name> <DB password>
 ```
 
-# Solution: database_update.sh
+## Solution: database_update.sh
 The solution is a Bash script that iterates over each of the scripts and compares the version in the filename to the version in the database.
 ```
 Usage:
