@@ -1,4 +1,4 @@
-# ECS Assess`ment
+# ECS Assessment
 The following use case is based on a real client request and a solution should be coded to automated this process.
 
 - Use Case:
